@@ -1,5 +1,13 @@
 # 🦜 Ornithology RAG Chatbot
 
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Streamlit](https://img.shields.io/badge/deployed%20on-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/Built%20with-LangChain-0099ff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAMAAABfEnjtAAAAXVBMVEUAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZlj9PHcAAAAKHRSTlMABM3f3MIkCE1eVZwNBgkPyMnEvLu3hYGBj8jEwIBZV0gIXuEAAAAWUlEQVR42kXHQQ6AIAwEwK1Ivv9lIuC/JEBKU9Lm83MBplWQBiVGLDlYr/8FgA4rSgSR7hPBaIBj1AAJZcRRjxDWpdIsgdT1zLwhWlCl1z8Qm/Xh7BB/8gNxPAAAAAElFTkSuQmCC)
+![ChromaDB](https://img.shields.io/badge/powered%20by-ChromaDB-black?logo=chromadb)
+![Bird Powered](https://img.shields.io/badge/powered%20by-bird%20brains-9cf?style=flat-square)
+![OpenAI](https://img.shields.io/badge/powered%20by-OpenAI-black?logo=openai)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 ## 📚 Overview
 
 Welcome to the Ornithology RAG (Retrieval-Augmented Generation) Chatbot! This project is a sophisticated question-answering system that leverages the power of large language models (LLMs) and vector databases to provide accurate and engaging responses to questions about ornithology. The system uses a combination of document retrieval and language generation to deliver well-informed answers based on your course materials.
