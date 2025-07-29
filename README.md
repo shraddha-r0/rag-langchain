@@ -44,13 +44,7 @@ Welcome to the Ornithology RAG (Retrieval-Augmented Generation) Chatbot! This pr
 - PDF documents containing ornithology content
 
 ### Installation
-
 1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/ornithology-rag.git
-   cd ornithology-rag
-   ```
 
 2. **Set up a virtual environment**
 
