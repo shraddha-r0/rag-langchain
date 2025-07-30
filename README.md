@@ -45,11 +45,13 @@ Welcome to the Ornithology RAG (Retrieval-Augmented Generation) Chatbot! This pr
 
 ## 🚀 Getting Started
 
+
 ### Prerequisites
 
 - Python 3.8 or higher
 - OpenAI API key
 - PDF documents containing ornithology content
+
 
 ### Installation
 1. **Clone the repository**
@@ -107,11 +109,6 @@ streamlit run app.py
 ```
 
 Then open your browser to the provided URL (typically `http://localhost:8501`).
-
-### Live Demo
-
-A live version of the application is available at:
-🔗 [https://rag-bird-bot.streamlit.app](https://rag-bird-bot.streamlit.app)
 
 ## 🧠 How It Works
 
